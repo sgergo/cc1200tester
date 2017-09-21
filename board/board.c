@@ -10,11 +10,11 @@
 #include "driverlib/sysctl.h"
 #include "driverlib/interrupt.h"
 
+#include "console.h"
 #include "boardconfig.h"
 #include "constants.h"
 #include "uartstdio.h"
 #include "board_spi.h"
-#include "console.h"
 #include "board_led.h"
 #include "udma_config.h"
 

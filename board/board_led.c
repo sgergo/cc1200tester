@@ -8,10 +8,10 @@
 #include "driverlib/rom.h"
 #include "driverlib/sysctl.h"
 
-
-#include "boardconfig.h"
-#include "constants.h"
 #include "board.h"
+#include "boardconfig.h"
+
+#include "constants.h"
 
 #define LEDOUT       (*((volatile uint32_t *)0x400253FC))
 
