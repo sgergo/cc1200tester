@@ -24,6 +24,13 @@
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>NewTargetConfiguration.ccxml</name>
+			<type>1</type>
+			<location>/home/gsantha/ti/CCSTargetConfigurations/NewTargetConfiguration.ccxml</location>
+		</link>
+	</linkedResources>
 	<variableList>
 		<variable>
 			<name>ORIGINAL_PROJECT_ROOT</name>
