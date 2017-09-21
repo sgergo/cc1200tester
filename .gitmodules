@@ -1,0 +1,3 @@
+[submodule "libcc1200"]
+	path = libcc1200
+	url = git@github.com:sgergo/libcc1200
